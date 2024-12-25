@@ -1,6 +1,6 @@
 # TipJar - Decentralized Tipping Platform
 
-TipJar is a decentralized tipping platform designed to allow users to fund a contract and tip service providers using Ethereum smart contracts. The platform ensures transparent, secure, and trustless transactions while maintaining a fair and seamless experience for both providers and users.
+TipJar is a decentralized tipping platform designed to allow users to fund a contract and tip service providers using solidity smart contracts. The platform ensures transparent, secure, and trustless transactions while maintaining a fair and seamless experience for both providers and users.
 
 ## Features
 - Fund the contract with GAS and send tips to providers.
