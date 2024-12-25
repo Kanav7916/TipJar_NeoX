@@ -26,6 +26,11 @@ TipJar is a decentralized tipping platform designed to allow users to fund a con
 ## Frontend
 The frontend is designed to interact with the TipJar smart contract. It is built with HTML, CSS, and JavaScript, and connects to the Neo X Testnet using the Web3.js library.
 
+## Images
+![t1](https://github.com/user-attachments/assets/abca0089-7c3f-4e01-b0c6-46f4edbf0e22)
+![t2](https://github.com/user-attachments/assets/833abe36-8e7e-4b33-ab05-f5bdeb5d3633)
+
+
 ## Getting Started
 1. Clone the repository and install dependencies.
 2. Deploy the smart contract to the Neo X Testnet T4.
