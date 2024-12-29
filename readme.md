@@ -14,7 +14,7 @@ TipJar is a decentralized tipping platform designed to allow users to fund a con
 - Network: Neo X MainNet
 
 ## Deployment
-- Contract Address: [View on Explorer](0xb53fe944711072481EA792b44E08986206ceA723)
+- Contract Address: [View on Explorer](https://xexplorer.neo.org/address/0xb53fe944711072481EA792b44E08986206ceA723)
 - Coin Used: GAS (Neo X Mainnet)
 
 ## How to Use
