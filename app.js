@@ -133,7 +133,7 @@ async function initWeb3() {
 
 async function loadContractBalance() {
     const balance = await contract.methods.getContractBalance().call();
-    document.getElementById('balance').innerText = `Contract Balance: ${web3.utils.fromWei(balance, 'ether')} ETH`;
+    document.getElementById('balance').innerText = `Contract Balance: ${web3.utils.fromWei(balance, 'ether')} GAS`;
 }
 
 // Fund the contract
